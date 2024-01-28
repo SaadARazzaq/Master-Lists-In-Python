@@ -1,6 +1,6 @@
-# 📚 Master-Lists-In-Python 🐍
+# 📚 Master-Lists-Methods-In-Python 🐍
 
-Hello and Ilcome to the Master Python List Methods Guide! In this guide, I'll explore each built-in method for working with Python lists. I'll provide explanations and examples to help you understand how to use these methods effectively and become more skilled with Python lists.
+Hello and welcome to the Master Python List Methods Guide! In this guide, I'll explore each built-in method for working with Python lists. I'll provide explanations and examples to help you understand how to use these methods effectively and become more skilled with Python lists.
 
 ## 🤔 **Why This Guide?**
 
